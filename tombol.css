@@ -1,0 +1,48 @@
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: #494f4a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px;
+  cursor: pointer;
+  border-radius: 20px;
+ 
+  
+  transition: all 0.1s;
+  -webkit-trantition: all o.1s;
+  
+  font-family: "Lucida Handwriting", cursive;
+  
+  
+}
+
+
+html{
+    background-color: black;
+    opacity: 2;
+    transition: all 0.1s;
+  -webkit-trantition: all o.1s;
+}
+.kembali{
+    opacity: 0.5;
+    float: left;
+    left: 10px;
+}
+
+.kembali:hover{
+    opacity: 2.0;
+}
+
+.lanjut{
+    opacity: 0.5;
+    float: right;
+    right: 1000px;
+}
+
+.lanjut:hover{
+  opacity: 2.0;
+}

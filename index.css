@@ -1,0 +1,211 @@
+.html {
+
+opacity: 0,5;
+}
+
+b .h1 {
+    font-family: "Lucida Handwriting", Cursive;
+    font-size: 1000
+    color: white;
+}
+
+.diatas {
+width: 40;
+    border-radius: 100%;
+}
+
+.ini_isi {
+margin: 0;
+padding: 0;
+}
+/*
+.center {
+    
+    width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  0%   {background-image: url("bg1.png");}
+  25%  {background-image: url("bg.jpeg");}
+  50%  {background-image: url("wallpaper.jpg");}
+  100% {background-image: url("bg1.png");}
+    
+}*/
+    
+  
+.center{    
+background-image: url("bgkey.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+padding: 0;
+text-align: center;
+}
+.center tr td {
+    text-decoration: none;
+}
+center {
+    margin: 0;
+padding: 0;}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+body .tabel1 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 50;
+    font-size: 50;
+}
+
+table {
+border: 0px;
+background-color:  black;
+margin: none;
+height: 30;
+}
+
+img {
+width: 40px;
+}
+
+td {
+color: white;
+width: 100%;
+margin: 10;
+}
+
+tr td a {
+color: white;
+width: 100%;
+text-align: left;
+border-spacing: 10;
+text-decoration: none;
+background-color: #0b521e;
+background-size: 100%;
+display: inline-block;
+
+   
+}
+td a:hover {
+color: white;
+width: 100%;
+		color: #DB1238 !important;
+		background: #0016DB !important;
+}
+
+
+.home {
+color: white;
+}
+
+.isi {
+color: white;
+}
+
+.welcome {
+color: white;
+width: 100%;
+}
+
+.welcome h1 {
+    font-size: 70;
+}
+.welcome img  {
+    width: 100;
+    border: 1px solid #ddd;
+  border-radius: 100%;
+  padding: 5px;
+  margin: 40;
+}
+.welcome img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 150, 178, 0.2)
+}
+
+
+}
+
+.materi {
+text-align: center;
+}
+
+.tengah h4 {
+text-indent: 50;
+height: 10;
+width: 10;
+}
+
+.paragraf {
+text-align: justify;
+text-indent: 50px;
+
+}
+a.link {
+color: #970399;
+    text-decoration: none;
+}
+
+
+
+
+.pooter td {
+    color: white;
+width: 1000;
+    border:10;
+    background-color: black;
+    background-size: 100;
+    text-decoration: none;
+    text-align: center;
+     margin: 20;
+    padding: 0;
+}
+
+.pooter td a {
+    margin: 10;
+    color: white;
+width: 100;
+height: 30;
+    border:10;
+    background-color: black;
+    background-size: 100;
+    text-decoration: none;
+    text-align: left;
+}
+
+.pooter td a:hover {
+    color: #970399;
+		color: #DB1238 !important;
+        background: #0016DB !important;
+        text-align: center;
+} 
+
+center .po {
+    background-color: black;
+    background-size: 100;
+    background-position: center;
+    width: 100;
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+
+
+
